@@ -7,7 +7,7 @@ const Header = () => {
     <div className="header">
       <img
         className="logo"
-        src="https://dz8fbjd9gwp2s.cloudfront.net/logos/6389e494e4b0a2e361db7362.png?v=6"
+        src="https://nammaoota.com/assets/images/namma-oota-logo.png"
         alt="logo"
       />
       <div className="nav-items">
@@ -54,7 +54,7 @@ const Body = () => {
         <input
           type="text"
           className="search-input"
-          placeholder="Search.."
+          placeholder="Search your resturants here ..."
           name="search"
         />
         <button type="submit">Search</button>
